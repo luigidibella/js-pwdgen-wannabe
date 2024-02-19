@@ -15,4 +15,5 @@ Stamparlo in pagina in un tag HTML (commit->push)
 3. prompt colore preferito e salviamo variabile colore preferito
 4. salvo variabile 24
 5. calcolo e salvo addizione nome + cognome preferito + colore
-6. stampo in pagina
+6. stampo in console
+7. stampo in pagina
